@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+#pagina {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 32px;
+    margin-top: 40px;
+}
+
+.ingredienten {
+    padding-bottom: 10px;
+}
+
+.stappen {
+    padding-bottom: 20px;
+}
+
+#inleiding {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#tip {
+    background-color: #def6ed;
+    border-radius: 4px;
+}
+
+#tiptext {
+    padding: 25px;
+}
